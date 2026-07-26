@@ -48,3 +48,6 @@ cf6.danfeng.eu.org:8443#df优选6
 cf7.danfeng.eu.org:8443#df优选7
 cf8.danfeng.eu.org:8443#df优选8
 cf9.danfeng.eu.org:8443#df优选9
+saas.sin.fan:2096#优选域名
+172.64.145.94:2096#移动优选
+fw8je9.cf.3666888.xyz:2096#优选域名1
