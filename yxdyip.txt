@@ -38,7 +38,13 @@
 89.150.34.41:8443#NL
 91.149.242.134:443#ES
 95.179.143.2:443#NL
-cf.danfeng.eu.org:8443#长风·入海
-cf1.danfeng.eu.org:8443#孤舟·照月
-cf2.danfeng.eu.org:8443#清川·听雨
-cf3.danfeng.eu.org:8443#落霞·归舟
+cf.danfeng.eu.org:8443#df优选
+cf1.danfeng.eu.org:8443#df优选1
+cf2.danfeng.eu.org:8443#df优选2
+cf3.danfeng.eu.org:8443#df优选3
+cf4.danfeng.eu.org:8443#df优选4
+cf5.danfeng.eu.org:8443#df优选5
+cf6.danfeng.eu.org:8443#df优选6
+cf7.danfeng.eu.org:8443#df优选7
+cf8.danfeng.eu.org:8443#df优选8
+cf9.danfeng.eu.org:8443#df优选9
