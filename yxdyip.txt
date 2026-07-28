@@ -11,7 +11,6 @@
 cf.3666888.xyz:443#🇭🇰HK6@HyoJooss
 carrefour.com:443#🇭🇰HK7@HyoJooss
 8.39.125.132:443#🇭🇰HK8@HyoJooss
-162.159.44.255:443#🇭🇰HK9@HyoJooss
 141.11.138.69:831#🇯🇵JP@HyoJooss
 191.222.213.93:443#🇯🇵JP1@HyoJooss
 191.223.221.59:443#🇯🇵JP2@HyoJooss
@@ -40,7 +39,7 @@ saas.sin.fan:443#🇯🇵JP6@HyoJooss
 64.176.83.23:443#🇸🇬SG4@HyoJooss
 64.235.41.148:443#🇸🇬SG5@HyoJooss
 162.159.36.68:443#🇸🇬SG6@HyoJooss
-162.159.44.255:443#🇸🇬SG7@HyoJooss
+8.222.185.236:443#🇸🇬SG7@HyoJooss
 store.ubi.com:443#🇸🇬SG8@HyoJooss
 cf.yfjc.sbs:8443#🇸🇬SG9@HyoJooss
 cf.008500.xyz:443#🇸🇬SG10@HyoJooss
@@ -67,6 +66,7 @@ cdn.2020111.xyz:8443#🇸🇬SG13@HyoJooss
 104.17.97.5:443#🇺🇸US13@HyoJooss
 v6cf.5671234.xyz:443#🇺🇸US14@HyoJooss
 69.63.218.168:10101#🇺🇸US15@HyoJooss
+162.159.44.255:443#🇺🇸US16@HyoJooss
 cf.danfeng.eu.org:8443#df优选@HyoJooss
 cf1.danfeng.eu.org:8443#df优选1@HyoJooss
 cf2.danfeng.eu.org:8443#df优选2@HyoJooss
